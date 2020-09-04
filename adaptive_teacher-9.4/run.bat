@@ -1,0 +1,1 @@
+cmd /k "python eval.py --dataset cifar10 --data ./data --batch-size 32 --model muxnet_m --pretrained ./pretrained&&exit"
